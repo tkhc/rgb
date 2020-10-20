@@ -72,3 +72,5 @@ Other Resources: 
 - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 
 - https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+
+- https://developers.google.com/web/tools/chrome-devtools/javascript
