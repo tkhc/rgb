@@ -41,21 +41,17 @@ We&#39;re going to explore a website that you run right on your desktop today. U
 
         vi.  Why does it persist through closing the page? 
 
-        vii.  Using this documentation: https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage change the JavaScript file to use session storage instead of local storage. 
+        vii.  When you win what happens when the title changes? 
 
-        viii.  What's different about the way the score is kept now? 
+        viii.  What does Asynchronous mean in the context of JavaScript? 
 
-        ix.  When you win what happens when the title changes? 
+        ix.  What is the fetch function inside of updateColorName? 
 
-        x.  What does Asynchronous mean in the context of JavaScript? 
+        x.  What does it do? 
 
-        xi.  What is the fetch function inside of updateColorName? 
+        xi.  What's an alternative to using fetch? 
 
-        xii.  What does it do? 
-
-        xiii.  What's an alternative to using fetch? 
-
-        xiv.  Why use one over the other? 
+        xii.  Why use one over the other? 
 
 5.  Add comments to the JavaScript code explaining what you think each function does. 
 
